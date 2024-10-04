@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
 
 			var postData = new
 			{
-				recipient = "markkelvin524@gmail.com",
+				recipient = "nelson_ochavo@yahoo.com",
 				subject = "test",
 				text = "test",
 				filename = "sample.pdf",
